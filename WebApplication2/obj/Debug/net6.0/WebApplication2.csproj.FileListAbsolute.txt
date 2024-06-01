@@ -1,0 +1,66 @@
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\appsettings.json
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+E:\vignesh\WebApplication2\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+E:\vignesh\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.staticwebassets.runtime.json
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\appsettings.json
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\WebApplication2.staticwebassets.runtime.json
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+E:\vignesh\WebApplication2 Controller Api\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll

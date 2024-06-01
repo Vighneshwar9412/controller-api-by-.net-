@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<body>
+    <script asp-append-version="true">
+
+        getItems();
+
+        function showdata(data) {
+            $("#list").empty();
+            data.map((item) => {
+                
+                list = "<li>" + item + "</li>";
+                $("#list").append(list);
+
+            })
+        }
+        
+
+            function getItems() {
+
+
+                const url = "api/Names";
+
+
+                fetch(url)
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log("datais", data);
+                        showdata(data);
+
+                       })
+                    .catch(error => conole.log("error is", error))
+
+            }
+        /*
+        function getItemsId(id) {
+
+            let   _id = id;
+            const url = `api/Names/${_id}`;
+                
+
+            fetch(url)
+                .then(response => response.json())
+                .then((data) => console.log("datais", data))
+                .catch(error => conole.log("error is", error))
+        }
+        */
+        async function  postData() {
+
+
+
+            let fname = $("#FName").val();
+            let lname = $("#lName").val();
+
+            let name = fname + " " + lname;
+
+
+            //const url = `api/Names?fullName=${name}`; 
+            const url = `api/Names/${name}`; 
+
+            
+            await fetch(url, {
+                method: 'POST'
+  
+            }).then(response => console.log("datapost is ", response))
+              .catch(error => console.error('Unable to add item.', error))
+          
+            getItems()
+        }
+
+        async function delete_data() {
+
+            let fname = $("#FName").val();
+            let lname = $("#lName").val();
+
+            let name = fname + lname;
+            const url = `api/Names?name=${name}`;
+
+            await fetch(url, {
+                method: 'DELETE'   
+            })
+                .then(response => console.log(response))
+               
+                .catch(error => console.error('Unable to add item.', error))
+
+            getItems();
+
+            let originalRequest = new Request("https://localhost:44375/")
+            let newRequest = new Request("https://voxviva.app", originalRequest);
+
+        }
+
+    </script>
+    <div>
+
+        <label>FirstName</label>
+        <input type="text" id="FName" />
+        <label>LastName</label>
+        <input type="text" id="lName" />
+        <button onclick="getItems()">get Request</button>
+        <button onclick="postData()">Post Request </button>
+        <button onclick="delete_data()">delete Request </button>
+    </div>
+    <div>
+        <ul id="list">
+            
+        </ul>
+    </div>
+
+
+    
+
+</body>
+</html>
